@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-RailsStripeMembershipSaasExample::Application.config.secret_token = 'd3114dffc47d0d673cc370e76d70ebf7d63dbe3f96cc92c59940913937dbca8c8d9d31bfa96c24ba973d7420b827030f57548695aa513e4713724a9f56518ebb'
+RailsStripeMembershipSaasExample::Application.config.secret_token = '8b4199a96a6f797450f2f9e0b9dae52760f39f4999cc835319dc981442de94f48ab4bbdd993740609107626f9fd384af1e0e29cfe46d774315956858de7a1ee2'
